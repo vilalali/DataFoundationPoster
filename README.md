@@ -8,7 +8,9 @@
 -  <p style="text-align:justify">The Data Foundation Systems goal is to enable researchers to create, annotate, anonymize, publish and use datasets to build AI models, data visualations and analytics reports and manage dataset/model versions for heathcare, mobility, smart cities, energy and other domains in the Indian context.
 
 -  <p style="text-align:justify"> To achieve this objective, Data Foundation Servers, Petabyte Object Storage and GPU powered AI model building/execution infrastructure are setup.
+
 -  <p style="text-align:justify"> Building tools and frameworks to enable researchers publish and effectively use datasets is another key objective. Generic Data ingestion, Data query/extraction, Data Annotation (Image, Medical images, Video, Image Text, Text and Audio) and Data nononymization tools are planed taking few open source tools/ideas as a base and enhance these tools to fullfill the Data Foundation needs.
+
 -  <p style="text-align:justify"> Docker and JupyterHub notebook based cutomized re- source allocation ecosystem planned to efficiently use system resouces (GPU, CPU, Memory, disk space and object storage).
 
 
@@ -16,9 +18,11 @@
 <p style="text-align:justify"> Innovative models for system building are evolved as recruiting developers from the Industry is a challenge.
 
 -  <p style="text-align:justify">  A Hands-on Semester Course: “Data Foundation Systems” (Spring 2022) 144 students registered. 40+ project Multiple proof of concepts related to Data Foundation completed.
--  <p style="text-align:justify">  Data Foundation Summer Internship program (with IIITH and Srishti 2022 External students) 20+ students
-contributed to Data Foundation Core System Development, Integration and Testing A Data Foundation Core Ecosystem has been made available for IIITH Researchers to use.
+
+-  <p style="text-align:justify">  Data Foundation Summer Internship program (with IIITH and Srishti 2022 External students) 20+ students contributed to Data Foundation Core System Development, Integration and Testing A Data Foundation Core Ecosystem has been made available for IIITH Researchers to use.
+
 -  <p style="text-align:justify"> A Learner – Contributor Model to engage IIITH students to support Data Foundation Projects has been created. Learners: Learners can learn at their own pace to contribute to Data Foundation technology POCs. Students who complete relevant POCs would get Data Foundation Certificates. Contributors: Contribute to Data Foundation System components and they Data Foundation developers. A Stipend would be paid and theywould conform to effort and timelines. Key Learners/Contributors would get recommendation letters.
+
 -  <p style="text-align:justify"> Hiring external interns for Data Foundation projects.
 
 ## Data Foundation Data Flow
