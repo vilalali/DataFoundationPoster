@@ -15,8 +15,7 @@
 ## System Building Approach
 <p style="text-align:justify"> Innovative models for system building are evolved as recruiting developers from the Industry is a challenge.
 
--  <p style="text-align:justify">  A Hands-on Semester Course: “Data Foundation Systems” (Spring 2022) 144 students registered. 40+ project Multiple proof of concepts related to Data Foundation
-completed.
+-  <p style="text-align:justify">  A Hands-on Semester Course: “Data Foundation Systems” (Spring 2022) 144 students registered. 40+ project Multiple proof of concepts related to Data Foundation completed.
 -  <p style="text-align:justify">  Data Foundation Summer Internship program (with IIITH and Srishti 2022 External students) 20+ students
 contributed to Data Foundation Core System Development, Integration and Testing A Data Foundation Core Ecosystem has been made available for IIITH Researchers to use.
 -  <p style="text-align:justify"> A Learner – Contributor Model to engage IIITH students to support Data Foundation Projects has been created. Learners: Learners can learn at their own pace to contribute to Data Foundation technology POCs. Students who complete relevant POCs would get Data Foundation Certificates. Contributors: Contribute to Data Foundation System components and they Data Foundation developers. A Stipend would be paid and theywould conform to effort and timelines. Key Learners/Contributors would get recommendation letters.
@@ -79,7 +78,7 @@ Web Site: HTML5, CSS3, ReactJS, JS, Bootstrap
 Copyright © IHUB-Data, IIIT Hyderabad
 </p>
 <p style="float:left; width: 100%; text-align:center;">Contact information: Data Foundation, IHUB-DATA, IIIT Hyderabad – Phone: +91-40–66531787 –Email: dfarchitect@ihub-data.iiit.ac.in; Web: 
-<a href="https://datafoundation.iiit.ac.in/" title="Data Foundation">Data Foundation</a>
+<a href="http://datafoundation.iiit.ac.in/" title="Data Foundation" target="_blank">Data Foundation</a>
 </p>
 </footer>
 
